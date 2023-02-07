@@ -1,60 +1,35 @@
 {
   "main": {
-    "id": "afbb74841a1b023f",
+    "id": "501cdaa05f3dc2bb",
     "type": "split",
     "children": [
       {
-        "id": "e125bcc285d1f3a7",
+        "id": "def36ffab2bf41dc",
         "type": "tabs",
         "children": [
           {
-            "id": "e2352e48aad25860",
+            "id": "fa9e81bce31ba76d",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "fd53e2589a708185",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Avion azul.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ecce66ad2f5bf20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hola.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6bae3915bbc7beab",
+    "id": "9571a7ae736a67cc",
     "type": "split",
     "children": [
       {
-        "id": "20fa716b9923b38a",
+        "id": "ee7e532337c02a50",
         "type": "tabs",
         "children": [
           {
-            "id": "5ccdbcd9cc2f2fde",
+            "id": "145fb3197dc281b8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -64,7 +39,7 @@
             }
           },
           {
-            "id": "f2bad93226d56d62",
+            "id": "884f49e72f48ed56",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,7 +54,7 @@
             }
           },
           {
-            "id": "cb673c65f1c34474",
+            "id": "7ec997d478f161a7",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -93,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "c7b0b4b7b9da6c91",
+    "id": "a34c6a16c7a0ff29",
     "type": "split",
     "children": [
       {
-        "id": "3d70fd1632a9c1bc",
+        "id": "246df5d368930cba",
         "type": "tabs",
         "children": [
           {
-            "id": "f07cf60b59fdcb04",
+            "id": "87c613905f9275f6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hola.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,19 +92,18 @@
             }
           },
           {
-            "id": "7f963a358dd995e6",
+            "id": "9b8393de5ad72403",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hola.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7d6f168be97478f0",
+            "id": "0b2170351bb27ff2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -141,13 +114,11 @@
             }
           },
           {
-            "id": "7904382daccf9a7b",
+            "id": "bc80ec3862aa7d0f",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "hola.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -167,9 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ecce66ad2f5bf20",
-  "lastOpenFiles": [
-    "Avion azul.md",
-    "conflict-files-obsidian-git.md"
-  ]
+  "active": "145fb3197dc281b8",
+  "lastOpenFiles": []
 }
