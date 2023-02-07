@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "608793854d4b0e39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PED/Untitled.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PED/Untitled.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PED/Untitled.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -171,8 +183,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8665503aeb038904",
+  "active": "608793854d4b0e39",
   "lastOpenFiles": [
+    "PED/Untitled.md",
     "LPP/aa.md",
     "HADA/kj.md",
     "conflict-files-obsidian-git.md",
