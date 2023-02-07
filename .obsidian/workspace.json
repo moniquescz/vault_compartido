@@ -1,14 +1,34 @@
 {
   "main": {
-    "id": "501cdaa05f3dc2bb",
+    "id": "afbb74841a1b023f",
     "type": "split",
     "children": [
       {
-        "id": "def36ffab2bf41dc",
+        "id": "e125bcc285d1f3a7",
         "type": "tabs",
         "children": [
           {
-            "id": "fa9e81bce31ba76d",
+            "id": "e2352e48aad25860",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "fd53e2589a708185",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Avion azul.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ecce66ad2f5bf20",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,21 +39,22 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "9571a7ae736a67cc",
+    "id": "6bae3915bbc7beab",
     "type": "split",
     "children": [
       {
-        "id": "ee7e532337c02a50",
+        "id": "20fa716b9923b38a",
         "type": "tabs",
         "children": [
           {
-            "id": "145fb3197dc281b8",
+            "id": "5ccdbcd9cc2f2fde",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +64,7 @@
             }
           },
           {
-            "id": "884f49e72f48ed56",
+            "id": "f2bad93226d56d62",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +79,7 @@
             }
           },
           {
-            "id": "7ec997d478f161a7",
+            "id": "cb673c65f1c34474",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -72,15 +93,15 @@
     "width": 300
   },
   "right": {
-    "id": "a34c6a16c7a0ff29",
+    "id": "c7b0b4b7b9da6c91",
     "type": "split",
     "children": [
       {
-        "id": "246df5d368930cba",
+        "id": "3d70fd1632a9c1bc",
         "type": "tabs",
         "children": [
           {
-            "id": "87c613905f9275f6",
+            "id": "f07cf60b59fdcb04",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -97,7 +118,7 @@
             }
           },
           {
-            "id": "9b8393de5ad72403",
+            "id": "7f963a358dd995e6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -109,7 +130,7 @@
             }
           },
           {
-            "id": "0b2170351bb27ff2",
+            "id": "7d6f168be97478f0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,7 +141,7 @@
             }
           },
           {
-            "id": "bc80ec3862aa7d0f",
+            "id": "7904382daccf9a7b",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -146,6 +167,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa9e81bce31ba76d",
-  "lastOpenFiles": []
+  "active": "1ecce66ad2f5bf20",
+  "lastOpenFiles": [
+    "Avion azul.md",
+    "conflict-files-obsidian-git.md"
+  ]
 }
