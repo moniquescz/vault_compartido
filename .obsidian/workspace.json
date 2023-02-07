@@ -30,9 +30,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "48175be38b4e8e30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HADA/kj.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HADA/kj.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HADA/kj.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HADA/kj.md"
+              }
             }
           }
         ]
@@ -155,10 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ecce66ad2f5bf20",
+  "active": "48175be38b4e8e30",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "hola.md",
-    "Avion azul.md",
-    "conflict-files-obsidian-git.md"
+    "Avion azul.md"
   ]
 }
